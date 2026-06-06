@@ -1,0 +1,41 @@
+# For Python projec__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv
+*.egg-info/
+dist/
+build/
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Data files (often too large for GitHub)
+*.npy
+*.h5
+*.csv
+*.parquet
+
+# IDE settings
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Large model files
+*.weights.h5
+*.model
+*.pth
+*.ckpt
+
+# Logs
+*.log
+logs/

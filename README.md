@@ -62,9 +62,6 @@ GISLR-ASL-Recognition/
 ├── 📄 hybrid-methods-improvement-best.ipynb
 │   └─ Production-optimized hybrid CNN-RNN-Transformer model
 │
-├── 📄 hybrid-methods-improvement-best-score.ipynb
-│   └─ High-performance variant with tuned hyperparameters
-│
 ├── 📄 best-model-testing-hybrid.ipynb
 │   └─ Model validation and performance benchmarking
 │

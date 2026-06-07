@@ -5,7 +5,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![Status: Active](https://img.shields.io/badge/Status-Active%20Development-brightgreen)](https://github.com)
 
-# Advanced deep learning architectures for recognizing American Sign Language from video sequences using pose estimation landmarks. Comparing Hybrid SqueezeFormer (HSF) and pure Transformer architectures.
+Advanced deep learning architectures for recognizing American Sign Language from video sequences using pose estimation landmarks. Comparing Hybrid SqueezeFormer (HSF) and pure Transformer architectures.
 
 ---
 

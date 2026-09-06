@@ -263,7 +263,7 @@ Use for:
 
 ---
 
-### **Production Models (Hybrid SqueezeFormer) 🏆**
+### ** Enhanced Hybrid SqueezeFormer **
 
 #### Main Production HSF Model
 **📄 notebooks/hybrid/hybrid-methods-improvement-best.ipynb**

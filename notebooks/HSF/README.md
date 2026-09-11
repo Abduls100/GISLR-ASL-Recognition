@@ -12,7 +12,6 @@ The Enhanced Hybrid SqueezeFormer combines local Conv1D temporal modeling, Trans
 
 - **`enhanced_hybrid_squeezeformer.ipynb`** — training and validation of the Enhanced Hybrid SqueezeFormer.
 - **`enhanced_hybrid_squeezeformer_evaluation.ipynb`** — held-out evaluation, Top-K metrics, confusion analysis, and per-class performance.
-- **`testing-hybrid-model.ipynb`** — experimental/debugging notebook retained for development analysis; it is not one of the four primary article models.
 
 The Hybrid SqueezeFormer baseline is maintained separately at:
 
@@ -189,7 +188,6 @@ notebooks/
 └── HSF/
     ├── enhanced_hybrid_squeezeformer.ipynb
     ├── enhanced_hybrid_squeezeformer_evaluation.ipynb
-    ├── testing-hybrid-model.ipynb
     └── README.md
 ```
 

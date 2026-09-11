@@ -90,7 +90,6 @@ GISLR-ASL-Recognition/
 │   ├── HSF/
 │   │   ├── enhanced_hybrid_squeezeformer.ipynb
 │   │   ├── enhanced_hybrid_squeezeformer_evaluation.ipynb
-│   │   ├── testing-hybrid-model.ipynb
 │   │   └── README.md
 │   │
 │   ├── inference/
@@ -114,7 +113,6 @@ GISLR-ASL-Recognition/
 | Hybrid SqueezeFormer | `notebooks/baseline/hybrid_squeezeformer.ipynb` |
 | Enhanced Hybrid SqueezeFormer | `notebooks/HSF/enhanced_hybrid_squeezeformer.ipynb` |
 | Enhanced Hybrid SqueezeFormer evaluation | `notebooks/HSF/enhanced_hybrid_squeezeformer_evaluation.ipynb` |
-| Experimental/debugging analysis | `notebooks/HSF/testing-hybrid-model.ipynb` |
 
 The notebook names above are intentionally aligned with the model names used in the article.
 
